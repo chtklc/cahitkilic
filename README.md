@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cahit</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Fatih Muncipaltiy**
+- 🔭 I’m currently working on **Fatih Muncipality**
 
 - 📫 How to reach me **chtklc@yahoo.com.tr**
 
