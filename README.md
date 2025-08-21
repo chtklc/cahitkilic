@@ -13,7 +13,7 @@
 
 ### 📫 Get In Touch
 - **Email:** chtklc@yahoo.com.tr
-- **LinkedIn:** [cahit-kilic](https://linkedin.com/in/cahit-kilic)
+- **LinkedIn:** [cahit-kilic](https://www.linkedin.com/in/cahit-kili%C3%A7-9b5223128/)
 
 ---
 
