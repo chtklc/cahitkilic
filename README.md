@@ -21,7 +21,7 @@
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/PostGIS_logo.png/256px-PostGIS_logo.png" alt="postgis" width="40" height="40"/>
+<img src="https://postgis.net/brand.svg" alt="postgis" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://www.value-marktdaten.de/wp-content/uploads/2024/11/gs3-crowdfunding-2.png" alt="geoserver" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
